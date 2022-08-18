@@ -11,9 +11,7 @@ My research interest is forensic statistics and statistical inference for incomp
 - 📫 You can reach me by [yhlin@iastate.edu](mailto:yhlin@iastate.edu).
 - 😄 Pronouns: he/him/his
 - 💬 More details on my [Google Sites](https://sites.google.com/view/yuhangtom/home).
-- ⚡ The profile picture is from one of my favorite artist, [TrNyteal](https://twitter.com/CiloRanko).
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84?src=hash&amp;ref_src=twsrc%5Etfw">#アークナイツ</a> <br>Confront <a href="https://t.co/UnTWVL9Q5w">pic.twitter.com/UnTWVL9Q5w</a></p>&mdash; TrNyteal (@CiloRanko) <a href="https://twitter.com/CiloRanko/status/1323114419795025920?ref_src=twsrc%5Etfw">November 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- ⚡ The profile picture is from one of my favorite artist, [TrNyteal](https://twitter.com/CiloRanko). Full size picture [here](https://twitter.com/CiloRanko/status/1323114419795025920?s=20&t=74jegARHBGkxZHUwWywW5w). All rights reserved by TrNyteal.
 
 
 <!--
