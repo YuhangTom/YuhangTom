@@ -11,9 +11,9 @@ My research interest is forensic statistics and statistical inference for incomp
 - 😄 Pronouns: he/him/his
 - 💬 More details on my [Google Sites](https://sites.google.com/view/yuhangtom/home).
 - ⚡ The profile picture is Rosmontis drawn by one of my favorite artist, [TrNyteal](https://twitter.com/CiloRanko). The full picture is [here](https://twitter.com/CiloRanko/status/1323114419795025920?s=20&t=74jegARHBGkxZHUwWywW5w). All rights reserved by TrNyteal.
-- 🌱 The following gif is from [碳纤维c_](https://space.bilibili.com/1559631/). All rights reserved by 碳纤维c_.
+- 🌱 The following gif is from [碳纤维c_](https://space.bilibili.com/1559631/). Different versions are available [here](https://t.bilibili.com/695396144878977040). All rights reserved by 碳纤维c_.
 
-![Gif from Bilibili user 1559631](https://i0.hdslb.com/bfs/new_dyn/fff95db87781409b514cdb9e9a48dea21559631.gif)
+![Gif from Bilibili user 1559631](https://i0.hdslb.com/bfs/new_dyn/22cbaf966f217a763330032668dc99971559631.gif)
 
 <!--
 **YuhangTom/YuhangTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
