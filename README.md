@@ -1,3 +1,5 @@
+![Gif from Bilibili user 1559631](https://i0.hdslb.com/bfs/new_dyn/44166ffa9bbeb4e82a7632b4900fddbb1559631.gif)
+
 [![YuhangTom's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhangTom&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhangTom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋 Welcome!
