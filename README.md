@@ -6,7 +6,7 @@ I am a Ph.D. candidate in [Statistics](https://www.stat.iastate.edu/) at [Iowa S
 
 My research interest is forensic statistics and statistical inference for incomplete data.
 
-- 🔭 I’m currently working on a project related to forensic statistics at the [Center for Statistics and Applications in Forensic Evidence (CSAFE)](https://forensicstats.org/).
+- 🔭 I’m currently working on a project related to [firearms and toolmark analysis](https://forensicstats.org/firearms-and-toolmark-analysis/) at the [Center for Statistics and Applications in Forensic Evidence (CSAFE)](https://forensicstats.org/).
 - 📫 You can reach me by [yhlin@iastate.edu](mailto:yhlin@iastate.edu).
 - 😄 Pronouns: he/him/his
 - 💬 More details on my [Google Sites](https://sites.google.com/view/yuhangtom/home).
