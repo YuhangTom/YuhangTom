@@ -9,7 +9,7 @@ My research interest is forensic statistics and statistical inference for incomp
 - 🔭 I’m currently working on a project related to [firearms and toolmark analysis](https://forensicstats.org/firearms-and-toolmark-analysis/) at the [Center for Statistics and Applications in Forensic Evidence (CSAFE)](https://forensicstats.org/).
 - 📫 You can reach me by [yhlin@iastate.edu](mailto:yhlin@iastate.edu).
 - 😄 Pronouns: he/him/his
-- 💬 More details on my [GitHub website](https://yuhangtom.github.io/).
+- 💬 More details on my [website](https://yuhangtom.github.io/).
 - ⚡ The profile picture is Rosmontis drawn by one of my favorite artist, [TrNyteal](https://twitter.com/CiloRanko). The full picture is [here](https://twitter.com/CiloRanko/status/1323114419795025920?s=20&t=74jegARHBGkxZHUwWywW5w). All rights reserved by TrNyteal.
 - 🌱 The following GIF is from [碳纤维c_](https://space.bilibili.com/1559631/). Different versions are available [here](https://t.bilibili.com/695396144878977040). All rights reserved by 碳纤维c_.
 
