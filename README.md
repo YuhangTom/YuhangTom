@@ -1,4 +1,4 @@
-[![YuhangTom's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhangTom&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhangTom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![YuhangTom's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhangTom&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhangTom)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋 Welcome!
 
