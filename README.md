@@ -3,7 +3,7 @@
 ### Hi there 👋 Welcome!
 
 - 💬 My [website](https://yuhangtom.github.io/).
-- ⚡ The profile picture is Rosmontis drawn by one of my favorite artist, [TrNyteal](https://twitter.com/CiloRanko). The full picture is [here](https://twitter.com/CiloRanko/status/1323114419795025920?s=20&t=74jegARHBGkxZHUwWywW5w). All rights reserved by TrNyteal.
+- ⚡ The profile picture is Rosmontis from [Arknights](https://en.wikipedia.org/wiki/Arknights) drawn by one of my favorite artist, [TrNyteal](https://twitter.com/CiloRanko). The full picture is [here](https://twitter.com/CiloRanko/status/1323114419795025920?s=20&t=74jegARHBGkxZHUwWywW5w). All rights reserved by TrNyteal.
 
 
 <!--
