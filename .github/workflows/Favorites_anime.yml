@@ -5,6 +5,8 @@ with:
   token: NOT_NEEDED
   base: ""
   plugin_anilist: yes
+  plugin_anilist_user: Konico
   plugin_anilist_medias: anime
-  plugin_anilist_sections: favorites, watching
+  plugin_anilist_sections: favorites, characters
   plugin_anilist_limit: 1
+  plugin_anilist_limit_characters: 1
