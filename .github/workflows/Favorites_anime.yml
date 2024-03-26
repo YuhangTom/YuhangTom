@@ -1,12 +1,27 @@
-name: Favorites anime and currently watching
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.anilist.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_anilist: yes
-  plugin_anilist_user: Konico
-  plugin_anilist_medias: anime
-  plugin_anilist_sections: favorites, characters
-  plugin_anilist_limit: 1
-  plugin_anilist_limit_characters: 1
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+  			token: NOT_NEEDED
+  			base: ""
+  			plugin_anilist: yes
+  			plugin_anilist_user: Konico
+  			plugin_anilist_medias: anime
+  			plugin_anilist_sections: favorites, characters
+  			plugin_anilist_limit: 1
+  			plugin_anilist_limit_characters: 1
