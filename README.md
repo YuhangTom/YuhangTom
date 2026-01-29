@@ -6,7 +6,7 @@
 - ⚡ The profile picture is Rosmontis from [Arknights](https://en.wikipedia.org/wiki/Arknights) drawn by one of my favorite artist, [TrNyteal](https://twitter.com/CiloRanko). The full picture is [here](https://twitter.com/CiloRanko/status/1323114419795025920?s=20&t=74jegARHBGkxZHUwWywW5w). All rights reserved by TrNyteal.
 
 <!--
-- 🌱 My [AniList](https://anilist.co/user/Konico/) last update: 2024/09/09
+- 🌱 My [AniList](https://anilist.co/user/Konico/) last update: 2026/01/28
 
 <p align="center"><img src="/metrics.plugin.anilist.svg" alt="Metrics" width="60%"></p>
 
